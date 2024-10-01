@@ -212,6 +212,10 @@ mainset:
     probability: 1
   - name: '@OwO-C'
     probability: 2
+  - name: heim
+    probability: 1
+  - name: helm
+    probability: 1
 - names:
   - name: ''
     probability: 100

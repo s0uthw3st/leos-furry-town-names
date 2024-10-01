@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Leo's Furry Town Names
+STR_GRF_DESCRIPTION :An expanded furry town name pack based on Doctor-Dragon's Furry Town Names{} Made by Leo Simensen (s0uthw3st)
+STR_STYLES : Leo's Furry

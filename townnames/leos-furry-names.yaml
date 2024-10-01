@@ -3,7 +3,7 @@ id: 0
 mainset:
 - names:
   - name: ' '
-    probability: 60
+    probability: 90
   - name: 'New '
     probability: 2
   - name: 'Mt. '
@@ -22,9 +22,11 @@ mainset:
     probability: 2
   - name: 'Grand '
     probability: 1
-  - name: 'Gran '
+  - name: 'Old '
+    probability: 2
+  - name: 'Lesser '
     probability: 1
-  - name: 'Great '
+  - name: 'Greater '
     probability: 1
 - names:
   - name: Tiger
@@ -123,6 +125,10 @@ mainset:
     probability: 1
   - name: Furry
     probability: 1
+  - name: Ox
+    probability: 1
+  - name: Jackal
+    probability: 1
 - names:
   - name: ville
     probability: 1
@@ -170,11 +176,39 @@ mainset:
     probability: 1
   - name: stone
     probability: 1
-  - name: ''
-    probability: 5
+  - name: burrow
+    probability: 1
+  - name: den
+    probability: 1
+  - name: nest
+    probability: 1
+  - name: ridge
+    probability: 1
+  - name: bridge
+    probability: 1
+  - name: stream
+    probability: 1
+  - name: water
+    probability: 1
+  - name: isle
+    probability: 1
+  - name: lands
+    probability: 1
+  - name: mount
+    probability: 1
+  - name: kirk
+    probability: 1
+  - name: berg
+    probability: 1
+  - name: court
+    probability: 1
+  - name: vale
+    probability: 1
+  - name: field
+    probability: 1
 - names:
   - name: ''
-    probability: 50
+    probability: 100
   - name: ' Valley'
     probability: 1
   - name: ' Forest'
@@ -220,6 +254,16 @@ mainset:
   - name: ' Grove'
     probability: 1
   - name: ' Village'
+    probability: 1
+  - name: ' Rock'
+    probability: 1
+  - name: ' Flats'
+    probability: 1
+  - name: ' Lands'
+    probability: 1
+  - name: ' Springs'
+    probability: 1
+  - name: ' Vale'
     probability: 1
 name: Leo's Furry Names
 source: Based on Doctor-Dragon's Furry Town Names

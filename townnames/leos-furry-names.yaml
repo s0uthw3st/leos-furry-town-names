@@ -28,6 +28,8 @@ mainset:
     probability: 1
   - name: 'Greater '
     probability: 1
+  - name: '@OwO-A'
+    probability: 1
 - names:
   - name: Tiger
     probability: 1
@@ -322,4 +324,9 @@ subsets:
     - name: ' UwU'
       probability: 1
     - name: ' Nya~'
+      probability: 1
+- name: OwO-A
+  parts:
+  - names:
+    - name: 'Mew '
       probability: 1

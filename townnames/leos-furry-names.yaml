@@ -129,6 +129,8 @@ mainset:
     probability: 1
   - name: Jackal
     probability: 1
+  - name: '@OwO-B'
+    probability: 2
 - names:
   - name: ville
     probability: 1
@@ -206,6 +208,8 @@ mainset:
     probability: 1
   - name: field
     probability: 1
+  - name: '@OwO-C'
+    probability: 2
 - names:
   - name: ''
     probability: 100
@@ -265,6 +269,57 @@ mainset:
     probability: 1
   - name: ' Vale'
     probability: 1
+  - name: '@OwO-D'
+    probability: 2
 name: Leo's Furry Names
 source: Based on Doctor-Dragon's Furry Town Names
-subsets: []
+subsets:
+- name: OwO-B
+  parts:
+  - names:
+    - name: OwO
+      probability: 1
+    - name: UwU
+      probability: 1
+    - name: Bulge
+      probability: 1
+    - name: Musky
+      probability: 1
+    - name: Musk
+      probability: 1
+    - name: Sheath
+      probability: 1
+    - name: Fuzzy
+      probability: 1
+    - name: Fluffy
+      probability: 1
+    - name: Bulgy
+      probability: 1
+- name: OwO-C
+  parts:
+  - names:
+    - name: sheath
+      probability: 1
+    - name: balls
+      probability: 1
+    - name: nuts
+      probability: 1
+    - name: bulge
+      probability: 1
+    - name: wulgy
+      probability: 1
+    - name: sack
+      probability: 1
+- name: OwO-D
+  parts:
+  - names:
+    - name: ' :3'
+      probability: 1
+    - name: ' :3c'
+      probability: 1
+    - name: ' OwO'
+      probability: 1
+    - name: ' UwU'
+      probability: 1
+    - name: ' Nya~'
+      probability: 1

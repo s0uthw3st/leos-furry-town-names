@@ -1,0 +1,226 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: ' '
+    probability: 60
+  - name: 'New '
+    probability: 2
+  - name: 'Mt. '
+    probability: 2
+  - name: 'Mount '
+    probability: 2
+  - name: 'Saint '
+    probability: 2
+  - name: 'St. '
+    probability: 2
+  - name: 'Fort '
+    probability: 2
+  - name: 'San '
+    probability: 1
+  - name: 'Camp '
+    probability: 2
+  - name: 'Grand '
+    probability: 1
+  - name: 'Gran '
+    probability: 1
+  - name: 'Great '
+    probability: 1
+- names:
+  - name: Tiger
+    probability: 1
+  - name: Cat
+    probability: 1
+  - name: Feline
+    probability: 1
+  - name: Wolf
+    probability: 1
+  - name: Lupine
+    probability: 1
+  - name: Dog
+    probability: 1
+  - name: Canine
+    probability: 1
+  - name: Otter
+    probability: 1
+  - name: Lutra
+    probability: 1
+  - name: Marten
+    probability: 1
+  - name: Stoat
+    probability: 1
+  - name: Ferret
+    probability: 1
+  - name: Mustelid
+    probability: 1
+  - name: Coyote
+    probability: 1
+  - name: Dragon
+    probability: 1
+  - name: Draco
+    probability: 1
+  - name: Fox
+    probability: 1
+  - name: Vulpine
+    probability: 1
+  - name: Fennec
+    probability: 1
+  - name: Cow
+    probability: 1
+  - name: Bull
+    probability: 1
+  - name: Jackalope
+    probability: 1
+  - name: Deer
+    probability: 1
+  - name: Cervine
+    probability: 1
+  - name: Buck
+    probability: 1
+  - name: Bear
+    probability: 1
+  - name: Ursa
+    probability: 1
+  - name: Ursine
+    probability: 1
+  - name: Goat
+    probability: 1
+  - name: Caprine
+    probability: 1
+  - name: OwO
+    probability: 1
+  - name: UwU
+    probability: 1
+  - name: Bulge
+    probability: 1
+  - name: Horse
+    probability: 1
+  - name: Equine
+    probability: 1
+  - name: Rabbit
+    probability: 1
+  - name: Bunny
+    probability: 1
+  - name: Hare
+    probability: 1
+  - name: Hyena
+    probability: 1
+  - name: Raccoon
+    probability: 1
+  - name: Racc
+    probability: 1
+  - name: Husky
+    probability: 1
+  - name: Tanuki
+    probability: 1
+  - name: Kobold
+    probability: 1
+  - name: Shark
+    probability: 1
+  - name: Mule
+    probability: 1
+  - name: Vixen
+    probability: 1
+  - name: Furry
+    probability: 1
+- names:
+  - name: ville
+    probability: 1
+  - name: town
+    probability: 1
+  - name: burg
+    probability: 1
+  - name: ford
+    probability: 1
+  - name: land
+    probability: 1
+  - name: bury
+    probability: 1
+  - name: by
+    probability: 1
+  - name: way
+    probability: 1
+  - name: grove
+    probability: 1
+  - name: mont
+    probability: 1
+  - name: dale
+    probability: 1
+  - name: stead
+    probability: 1
+  - name: boro
+    probability: 1
+  - name: borough
+    probability: 1
+  - name: son
+    probability: 1
+  - name: head
+    probability: 1
+  - name: wood
+    probability: 1
+  - name: edge
+    probability: 1
+  - name: ton
+    probability: 1
+  - name: brook
+    probability: 1
+  - name: top
+    probability: 1
+  - name: site
+    probability: 1
+  - name: stone
+    probability: 1
+  - name: ''
+    probability: 5
+- names:
+  - name: ''
+    probability: 50
+  - name: ' Valley'
+    probability: 1
+  - name: ' Forest'
+    probability: 1
+  - name: ' Fields'
+    probability: 1
+  - name: ' Plains'
+    probability: 1
+  - name: ' Beach'
+    probability: 1
+  - name: ' River'
+    probability: 1
+  - name: ' Bay'
+    probability: 1
+  - name: ' City'
+    probability: 1
+  - name: ' Township'
+    probability: 1
+  - name: ' Hill'
+    probability: 1
+  - name: ' Mountain'
+    probability: 1
+  - name: ' Bay'
+    probability: 1
+  - name: ' Port'
+    probability: 1
+  - name: ' Freeport'
+    probability: 1
+  - name: ' Meadows'
+    probability: 1
+  - name: ' County'
+    probability: 1
+  - name: ' Junction'
+    probability: 1
+  - name: ' Creek'
+    probability: 1
+  - name: ' Hills'
+    probability: 1
+  - name: ' Bend'
+    probability: 1
+  - name: ' Park'
+    probability: 1
+  - name: ' Grove'
+    probability: 1
+  - name: ' Village'
+    probability: 1
+name: Leo's Furry Names
+source: Based on Doctor-Dragon's Furry Town Names
+subsets: []

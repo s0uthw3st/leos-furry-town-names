@@ -77,8 +77,8 @@ town_names (B) {
 		text("Vulpine",1),
 		text("Cow",1),
 		text("Bull",1),
-		text("Bovi",1),
-		text("Ox",1),
+		text("Bovine",1),
+		text("Oxen",1),
 		text("Jackalope",1),
 		text("Deer",1),
 		text("Buck",1),
@@ -89,8 +89,6 @@ town_names (B) {
 		text("Ursine",1),
 		text("Goat",1),
 		text("Ram",1),
-		text("Caprica",1),
-		text("Caprine",1),
 		text("Horse",1),
 		text("Equine",1),
 		text("Rabbit",1),
@@ -103,7 +101,8 @@ town_names (B) {
 		text("Tanuki",1),
 		text("Rat",1),
 		text("Mouse",1),
-		text("Shark",1)
+		text("Shark",1),
+		text("Duck",1)
 	}
 }
 town_names (C) {
@@ -148,7 +147,9 @@ town_names (C) {
 		text("field",1),
 		text("heim",1),
 		text("helm",1),
-		text("holm",1)
+		text("holm",1),
+		text("hollow",1),
+		text("hole",1)
 	}
 }
 town_names (D) {

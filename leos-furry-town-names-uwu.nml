@@ -1,5 +1,5 @@
 //
-// Leo's Furry Town Names - No UwU Edition
+// Leo's Furry Town Names - UwU Edition
 //
 
 grf {
@@ -8,6 +8,49 @@ grf {
 	desc:	string(STR_GRF_DESCRIPTION);
 	version: 1;
 	min_compatible_version:	0;
+}
+
+// "Silly"/"Furry" name expansions
+town_names (OwO_B) {
+	{
+		text("OwO",1),
+		text("UwU",1),
+		text("Bulge",1),
+		text("Bulgy",1),
+		text("Musk",1),
+		text("Musky",1),
+		text("Furry",1),
+		text("Fuzzy",1),
+		text("Fluffy",1),
+		text("Sheath",1),
+		text("Knot",1),
+		text("Knotty",1)
+	}
+}
+town_names (OwO_C) {
+	{
+		text("sheath",1),
+		text("balls",1),
+		text("nuts",1),
+		text("sack",1),
+		text("bulge",1),
+		text("wulgy",1),
+		text("musk",1),
+		text("tits",1),
+		text("pussy",1),
+		text("knot",1)
+	}
+}
+town_names (OwO_D) {
+	{
+		text("",10),
+		text(" :3",1),
+		text(" :3c",1),
+		text(" X3",1),
+		text(" OwO",1),
+		text(" UwU",1),
+		text(" Nya~",1)
+	}
 }
 
 // Friends and other custom names
@@ -209,6 +252,21 @@ town_names (D) {
 	}
 }
 
+// Name type 0 - all silly
+
+town_names (type_0) {
+	{
+		town_names(OwO_B,1)
+	}
+	{
+		town_names(OwO_C,1)
+	}
+	{
+		text("", 15),
+		town_names(OwO_D,1)
+	}
+} 
+
 // Name type 1 - prefixed
 
 town_names (type_1) {
@@ -217,10 +275,12 @@ town_names (type_1) {
 		town_names(A,1),
 	}
 	{
-		town_names(B,1),
+		town_names(B,31),
+		town_names(OwO_B,1)
 	}
 	{
-		town_names(C,1),
+		town_names(C,31),
+		town_names(OwO_C,1)
 	}
 } 
 
@@ -228,13 +288,16 @@ town_names (type_1) {
 
 town_names (type_2) {
 	{
-		town_names(B,1),
+		town_names(B,31),
+		town_names(OwO_B,1)
 	}
 	{
-		town_names(C,1),
+		town_names(C,31),
+		town_names(OwO_C,1)
 	}
 	{
-		town_names(D,1),
+		town_names(D,31),
+		town_names(OwO_D,1)
 	}
 } 
 
@@ -274,7 +337,8 @@ town_names {
 	styles : string(STR_STYLES);
 	{
 		town_names(type_1,82),
-		town_names(type_2,42),
+		town_names(type_2,41),
 		town_names(type_3,4),
+		town_names(type_0,1)
 	}
 }

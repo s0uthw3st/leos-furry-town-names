@@ -9,7 +9,7 @@ Based on **Doctor-Dragon's Furry Town Names**:
 https://github.com/doctor-dragon/furry_town_names
 
 ## Versions
-**Default**: all the names, including some silly and suggestive alternative names included
-- these are relatively rare; a handful of substitutions in a 512x512 map
+**Default**: all the names, based on animals and location prefixes/suffixes, plus some personal easter eggs
 
-**No-UwU**: same list but with the more silly and suggestive parts removed
+**UwU**: same list but with some silly and suggestive alternative names included, be warned!
+- these are relatively rare; a handful of substitutions in a 512x512 map
